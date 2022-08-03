@@ -1,0 +1,5 @@
+[deps]
+BayesNets = "ba4760a4-c768-5bed-964b-cf806dc591cb"
+GraphViz = "f526b714-d49f-11e8-06ff-31ed36ee7ee0"
+TikzGraphs = "b4f28e30-c73f-5eaf-a395-8a9db949a742"
+TikzPictures = "37f6aa50-8035-52d0-81c2-5a1d08754b2d"
